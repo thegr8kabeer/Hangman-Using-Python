@@ -1,3 +1,11 @@
+'''
+This file contains all the words that are going to be used in the game hangman.
+You can also edit the list below i.e. add or remove words
+These are some random words that I picked from the internet and have a difficulty level of "Medium"
+
+'''
+
+
 word_list = [
     'wares',
     'soup',
